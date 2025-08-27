@@ -1,0 +1,727 @@
+[
+  {
+    "type": "quote",
+    "text": "The best way to predict the future is to create it.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "type": "quote",
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "type": "quote",
+    "text": "Don't be afraid to give up the good to go for the great.",
+    "author": "John D. Rockefeller"
+  },
+  {
+    "type": "quote",
+    "text": "I find that the harder I work, the more luck I seem to have.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "type": "quote",
+    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "type": "quote",
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "type": "quote",
+    "text": "Your time is limited, so don't waste it living someone else's life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "type": "quote",
+    "text": "It's not whether you get knocked down, it's whether you get up.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "type": "quote",
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "type": "quote",
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "type": "quote",
+    "text": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney"
+  },
+  {
+    "type": "quote",
+    "text": "If you are not willing to risk the usual, you will have to settle for the ordinary.",
+    "author": "Jim Rohn"
+  },
+  {
+    "type": "quote",
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "type": "quote",
+    "text": "The harder the conflict, the more glorious the triumph.",
+    "author": "Thomas Paine"
+  },
+  {
+    "type": "quote",
+    "text": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs"
+  },
+  {
+    "type": "quote",
+    "text": "Life is 10% what happens to you and 90% how you react to it.",
+    "author": "Charles R. Swindoll"
+  },
+  {
+    "type": "quote",
+    "text": "The mind is everything. What you think you become.",
+    "author": "Buddha"
+  },
+  {
+    "type": "quote",
+    "text": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "type": "quote",
+    "text": "Whatever the mind of man can conceive and believe, it can achieve.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "type": "quote",
+    "text": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "type": "quote",
+    "text": "I attribute my success to this: I never gave or took any excuse.",
+    "author": "Florence Nightingale"
+  },
+  {
+    "type": "quote",
+    "text": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky"
+  },
+  {
+    "type": "quote",
+    "text": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+    "author": "Amelia Earhart"
+  },
+  {
+    "type": "quote",
+    "text": "Every strike brings me closer to the next home run.",
+    "author": "Babe Ruth"
+  },
+  {
+    "type": "quote",
+    "text": "Definiteness of purpose is the starting point of all achievement.",
+    "author": "W. Clement Stone"
+  },
+  {
+    "type": "quote",
+    "text": "Life isn't about finding yourself. Life is about creating yourself.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "type": "quote",
+    "text": "We become what we think about most of the time, and that's the strangest secret.",
+    "author": "Earl Nightingale"
+  },
+  {
+    "type": "quote",
+    "text": "The best revenge is massive success.",
+    "author": "Frank Sinatra"
+  },
+  {
+    "type": "quote",
+    "text": "People often say that motivation doesn't last. Well, neither does bathing—that's why we recommend it daily.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "type": "quote",
+    "text": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon"
+  },
+  {
+    "type": "quote",
+    "text": "The question isn't who is going to let me; it's who is going to stop me.",
+    "author": "Ayn Rand"
+  },
+  {
+    "type": "quote",
+    "text": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "author": "Roy T. Bennett"
+  },
+  {
+    "type": "quote",
+    "text": "Everything you've ever wanted is on the other side of fear.",
+    "author": "George Addair"
+  },
+  {
+    "type": "quote",
+    "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.",
+    "author": "Mark Twain"
+  },
+  {
+    "type": "quote",
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "type": "quote",
+    "text": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "type": "quote",
+    "text": "If you want to achieve greatness stop asking for permission.",
+    "author": "Anonymous"
+  },
+  {
+    "type": "quote",
+    "text": "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
+    "author": "Michael Jordan"
+  },
+  {
+    "type": "quote",
+    "text": "You must expect great things of yourself before you can do them.",
+    "author": "Michael Jordan"
+  },
+  {
+    "type": "quote",
+    "text": "The successful warrior is the average man, with laser-like focus.",
+    "author": "Bruce Lee"
+  },
+  {
+    "type": "quote",
+    "text": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+    "author": "Colin Powell"
+  },
+  {
+    "type": "quote",
+    "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+    "author": "Jordan Belfort"
+  },
+  {
+    "type": "quote",
+    "text": "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "type": "quote",
+    "text": "The greatest wealth is to live content with little.",
+    "author": "Plato"
+  },
+  {
+    "type": "quote",
+    "text": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu"
+  },
+  {
+    "type": "quote",
+    "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "type": "quote",
+    "text": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates"
+  },
+  {
+    "type": "quote",
+    "text": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama"
+  },
+  {
+    "type": "quote",
+    "text": "The power of imagination makes us infinite.",
+    "author": "John Muir"
+  },
+  {
+    "type": "quote",
+    "text": "The unexamined life is not worth living.",
+    "author": "Socrates"
+  },
+  {
+    "type": "quote",
+    "text": "The happiness of your life depends upon the quality of your thoughts.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "type": "quote",
+    "text": "The mind is not a vessel to be filled but a fire to be kindled.",
+    "author": "Plutarch"
+  },
+  {
+    "type": "quote",
+    "text": "The greatest discovery of all time is that a person can change his future by merely changing his attitude.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "type": "quote",
+    "text": "The only thing we have to fear is fear itself.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "type": "quote",
+    "text": "The best preparation for tomorrow is doing your best today.",
+    "author": "H. Jackson Brown, Jr."
+  },
+  {
+    "type": "quote",
+    "text": "The two most important days in your life are the day you are born and the day you find out why.",
+    "author": "Mark Twain"
+  },
+  {
+    "type": "quote",
+    "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+    "author": "Helen Keller"
+  },
+  {
+    "type": "quote",
+    "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "type": "quote",
+    "text": "The greatest gift of life is friendship, and I have received it.",
+    "author": "Hubert H. Humphrey"
+  },
+  {
+    "type": "quote",
+    "text": "The art of life is to know how to enjoy a little and to endure very much.",
+    "author": "William Hazlitt"
+  },
+  {
+    "type": "quote",
+    "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+    "author": "Edmund Burke"
+  },
+  {
+    "type": "quote",
+    "text": "The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.",
+    "author": "Mark Caine"
+  },
+  {
+    "type": "quote",
+    "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+    "author": "Mark Zuckerberg"
+  },
+  {
+    "type": "quote",
+    "text": "The man who has confidence in himself gains the confidence of others.",
+    "author": "Hasidic Proverb"
+  },
+  {
+    "type": "quote",
+    "text": "The more you praise and celebrate your life, the more there is in life to celebrate.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "type": "quote",
+    "text": "The successful man is the one who finds out what is the matter with his business before his competitors do.",
+    "author": "Roy L. Smith"
+  },
+  {
+    "type": "quote",
+    "text": "The discipline you learn and character you build from setting and achieving a goal can be more valuable than the achievement of the goal itself.",
+    "author": "Bo Bennett"
+  },
+  {
+    "type": "quote",
+    "text": "The difference between who you are and who you want to be is what you do.",
+    "author": "Anonymous"
+  },
+  {
+    "type": "quote",
+    "text": "The elevator to success is out of order. You'll have to use the stairs... one step at a time.",
+    "author": "Joe Girard"
+  },
+  {
+    "type": "quote",
+    "text": "The greatest oak was once a little nut who held its ground.",
+    "author": "Anonymous"
+  },
+  {
+    "type": "quote",
+    "text": "The harder you work for something, the greater you'll feel when you achieve it.",
+    "author": "Anonymous"
+  },
+  {
+    "type": "quote",
+    "text": "The key to success is to focus on goals, not obstacles.",
+    "author": "Anonymous"
+  },
+  {
+    "type": "quote",
+    "text": "The only way to achieve the impossible is to believe it is possible.",
+    "author": "Charles Kingsleigh"
+  },
+  {
+    "type": "quote",
+    "text": "The secret of success is to do the common thing uncommonly well.",
+    "author": "John D. Rockefeller Jr."
+  },
+  {
+    "type": "quote",
+    "text": "The starting point of all achievement is desire.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "type": "quote",
+    "text": "There is no substitute for hard work.",
+    "author": "Thomas Edison"
+  },
+  {
+    "type": "quote",
+    "text": "Things work out best for those who make the best of how things work out.",
+    "author": "John Wooden"
+  },
+  {
+    "type": "quote",
+    "text": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "type": "quote",
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle"
+  },
+  {
+    "type": "quote",
+    "text": "What seems to us as bitter trials are often blessings in disguise.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "type": "quote",
+    "text": "Where there is a will, there is a way.",
+    "author": "Anonymous"
+  },
+  {
+    "type": "quote",
+    "text": "Why fit in when you were born to stand out?",
+    "author": "Dr. Seuss"
+  },
+  {
+    "type": "quote",
+    "text": "You can't use up creativity. The more you use, the more you have.",
+    "author": "Maya Angelou"
+  },
+  {
+    "type": "quote",
+    "text": "You become what you believe.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "type": "quote",
+    "text": "You can't cross the sea merely by standing and staring at the water.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "type": "quote",
+    "text": "You can't build a reputation on what you are going to do.",
+    "author": "Henry Ford"
+  },
+  {
+    "type": "quote",
+    "text": "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.",
+    "author": "Steve Jobs"
+  },
+  {
+    "type": "quote",
+    "text": "You can't fall if you don't climb. But there's no joy in living your whole life on the ground.",
+    "author": "Anonymous"
+  },
+  {
+    "type": "quote",
+    "text": "You can't have a better tomorrow if you are thinking about yesterday all the time.",
+    "author": "Charles F. Kettering"
+  },
+  {
+    "type": "quote",
+    "text": "You can't let your failures define you. You have to let your failures teach you.",
+    "author": "Barack Obama"
+  },
+  {
+    "type": "quote",
+    "text": "You can't put a limit on anything. The more you dream, the farther you get.",
+    "author": "Michael Phelps"
+  },
+  {
+    "type": "quote",
+    "text": "You can't start the next chapter of your life if you keep re-reading the last one.",
+    "author": "Michael McMillan"
+  },
+  {
+    "type": "quote",
+    "text": "You don't have to be great to start, but you have to start to be great.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "type": "quote",
+    "text": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "type": "quote",
+    "text": "You never know how strong you are until being strong is your only choice.",
+    "author": "Bob Marley"
+  },
+  {
+    "type": "quote",
+    "text": "Your attitude, not your aptitude, will determine your altitude.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "type": "quote",
+    "text": "The greatest weapon against stress is our ability to choose one thought over another.",
+    "author": "William James"
+  },
+  {
+    "type": "quote",
+    "text": "The only journey is the one within.",
+    "author": "Rainer Maria Rilke"
+  },
+  {
+    "type": "quote",
+    "text": "The best way to find yourself is to lose yourself in the service of others.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "type": "quote",
+    "text": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "type": "quote",
+    "text": "The soul becomes dyed with the color of its thoughts.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "type": "quote",
+    "text": "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.",
+    "author": "William James"
+  },
+  {
+    "type": "quote",
+    "text": "The purpose of human life is to serve, and to show compassion and the will to help others.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "type": "quote",
+    "text": "The true sign of intelligence is not knowledge but imagination.",
+    "author": "Albert Einstein"
+  },
+  {
+    "type": "quote",
+    "text": "The measure of intelligence is the ability to change.",
+    "author": "Albert Einstein"
+  },
+  {
+    "type": "quote",
+    "text": "The important thing is not to stop questioning. Curiosity has its own reason for existence.",
+    "author": "Albert Einstein"
+  },
+  {
+    "type": "quote",
+    "text": "The only source of knowledge is experience.",
+    "author": "Albert Einstein"
+  },
+  {
+    "type": "quote",
+    "text": "The greatest glory is not in never falling, but in rising every time we fall.",
+    "author": "Confucius"
+  },
+  {
+    "type": "quote",
+    "text": "The man who moves a mountain begins by carrying away small stones.",
+    "author": "Confucius"
+  },
+  {
+    "type": "quote",
+    "text": "The superior man is modest in his speech but exceeds in his actions.",
+    "author": "Confucius"
+  },
+  {
+    "type": "quote",
+    "text": "The best thinking has been done in solitude. The worst has been done in turmoil.",
+    "author": "Thomas Edison"
+  },
+  {
+    "type": "quote",
+    "text": "The three great essentials to achieve anything worthwhile are, first, hard work; second, stick-to-itiveness; third, common sense.",
+    "author": "Thomas Edison"
+  },
+  {
+    "type": "quote",
+    "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "type": "quote",
+    "text": "It is never too late to be what you might have been.",
+    "author": "George Eliot"
+  },
+  {
+    "type": "quote",
+    "text": "When you have a dream, you've got to grab it and never let go.",
+    "author": "Carol Burnett"
+  },
+  {
+    "type": "quote",
+    "text": "Nothing is impossible. The word itself says 'I'm possible!'",
+    "author": "Audrey Hepburn"
+  },
+  {
+    "type": "quote",
+    "text": "You define your own life. Don't let other people write your script.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "type": "quote",
+    "text": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "type": "quote",
+    "text": "Keep your face always toward the sunshine, and shadows will fall behind you.",
+    "author": "Walt Whitman"
+  },
+  {
+    "type": "quote",
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "type": "quote",
+    "text": "Every moment is a fresh beginning.",
+    "author": "T.S. Eliot"
+  },
+  {
+    "type": "quote",
+    "text": "Never regret anything that made you smile.",
+    "author": "Mark Twain"
+  },
+  {
+    "type": "quote",
+    "text": "Try to be a rainbow in someone's cloud.",
+    "author": "Maya Angelou"
+  },
+  {
+    "type": "quote",
+    "text": "Happiness is not by chance, but by choice.",
+    "author": "Jim Rohn"
+  },
+  {
+    "type": "quote",
+    "text": "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
+    "author": "Jamie Paolinetti"
+  },
+  {
+    "type": "quote",
+    "text": "Peace begins with a smile.",
+    "author": "Mother Teresa"
+  },
+  {
+    "type": "quote",
+    "text": "What lies behind you and what lies in front of you pales in comparison to what lies inside of you.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "type": "quote",
+    "text": "Doubt kills more dreams than failure ever will.",
+    "author": "Suzy Kassem"
+  },
+  {
+    "type": "quote",
+    "text": "The cave you fear to enter holds the treasure you seek.",
+    "author": "Joseph Campbell"
+  },
+  {
+    "type": "quote",
+    "text": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+    "author": "Anne Frank"
+  },
+  {
+    "type": "quote",
+    "text": "One day or day one. You decide.",
+    "author": "Anonymous"
+  },
+  {
+    "type": "quote",
+    "text": "Small acts, when multiplied by millions of people, can transform the world.",
+    "author": "Howard Zinn"
+  },
+  {
+    "type": "quote",
+    "text": "Rise above the storm and you will find the sunshine.",
+    "author": "Mario Fernandez"
+  },
+  {
+    "type": "quote",
+    "text": "Stars can't shine without darkness.",
+    "author": "Anonymous"
+  },
+  {
+    "type": "quote",
+    "text": "The flower that blooms in adversity is the rarest and most beautiful of all.",
+    "author": "Walt Disney"
+  },
+  {
+    "type": "quote",
+    "text": "Your potential is endless. Go do what you were created to do.",
+    "author": "Anonymous"
+  },
+  {
+    "type": "quote",
+    "text": "The calm sea never made a skilled sailor.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "type": "quote",
+    "text": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe"
+  },
+  {
+    "type": "quote",
+    "text": "The only way to have a friend is to be one.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "type": "quote",
+    "text": "Growth is often a painful process, but a necessary one.",
+    "author": "Anonymous"
+  },
+  {
+    "type": "quote",
+    "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying 'I will try again tomorrow.'",
+    "author": "Mary Anne Radmacher"
+  },
+  {
+    "type": "quote",
+    "text": "The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.",
+    "author": "Charles Dickens"
+  },
+  {
+    "type": "quote",
+    "text": "The person who follows the crowd will usually go no further than the crowd. The person who walks alone is likely to find himself in places no one has ever seen before.",
+    "author": "Albert Einstein"
+  },
+  {
+    "type": "quote",
+    "text": "The obstacle is the path.",
+    "author": "Zen Proverb"
+  },
+  {
+    "type": "quote",
+    "text": "The mightier the storm, the brighter the rainbow.",
+    "author": "Anonymous"
+  }
+]

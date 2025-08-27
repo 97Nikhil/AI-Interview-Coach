@@ -1,0 +1,5504 @@
+{
+  "questions": [
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain the difference between compiled and interpreted languages."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is a null pointer and how do you prevent null pointer exceptions?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is the difference between a process and a thread?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain the concept of object-oriented programming."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are the basic data structures every programmer should know?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to learn something new quickly to complete a task."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle receiving critical feedback on your code?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle tight deadlines when working on multiple projects?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to collaborate with a difficult team member."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you approach learning a new programming language or framework?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your ideal work environment for maximum productivity."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle situations where requirements are unclear?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Tell me about a time you made a mistake in your code and how you fixed it."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What factors would you consider when designing a simple web application?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Explain the client-server model in simple terms."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What are the key components you'd consider when designing a simple chat application?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Explain how you would design a system to handle user uploads of large files."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What factors would you consider when choosing between SQL and NoSQL for a new project?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you design a system to send email notifications to users?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What are the tradeoffs between monolithic and microservices architectures?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you design a simple API for a todo list application?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is version control and why is it important?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Describe how you would optimize a slow application."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain the SOLID principles of object-oriented design."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you implement caching in a web application?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are microservices and when would you use them?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain the concept of dependency injection."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to explain a technical concept to a non-technical person."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you approach code reviews with your teammates?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you balance writing perfect code with delivering on time?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to persuade your team to adopt a new technology."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you handle technical debt in a project?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to mentor a junior developer."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you stay motivated when working on long-term projects?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to adapt to a major change in project direction."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you design a scalable notification system?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a URL shortening service like bit.ly."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you design a system to handle scheduled jobs or cron tasks?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "What would you consider when designing a real-time collaborative editing feature?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you approach designing a system with both read-heavy and write-heavy components?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "What strategies would you use to design a system that needs to be highly available?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you design a system to process and analyze large log files?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "What would you consider when designing a system that needs to support international users?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some common security vulnerabilities in web applications?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you debug a memory leak in an application?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain how garbage collection works in your language of choice."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you design a distributed system to handle high traffic?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What strategies would you use to reduce database load for a high-traffic application?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain the CAP theorem and its implications for distributed systems."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to mentoring junior engineers."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you handle a situation where business requirements keep changing?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you foster innovation within your engineering team?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to building engineering culture in an organization."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you handle conflicts between technical and business priorities?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to make a difficult architectural decision."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you measure and improve team productivity?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Tell me about a time you successfully advocated for technical excellence despite business pressures."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a system that supports live collaboration (like Google Docs)."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a ride-sharing service like Uber?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a recommendation system for an e-commerce platform."
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a globally distributed content delivery network?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "What strategies would you use to design a system that can handle sudden traffic spikes?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a system that needs to maintain data consistency across multiple regions?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "What would you consider when designing a system that processes financial transactions with strict compliance requirements?"
+    },
+    {
+      "job": "Software Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a system that needs to support both online and offline functionality?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is the difference between supervised and unsupervised learning?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain what a p-value is in statistics."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are the main steps in a typical data science project?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is the difference between classification and regression?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain what a correlation coefficient measures."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "What is the difference between mean and median?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "Explain the concept of normal distribution."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "Explain the difference between correlation and causation."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "What is statistical significance and how is it determined?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "Explain the concept of confidence intervals."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "What are Type I and Type II errors in hypothesis testing?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "How would you explain the concept of regression to a non-technical audience?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "What are some common probability distributions and when would you use each?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle missing or incomplete data in a dataset?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to explain complex data insights to non-technical stakeholders."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you ensure your data analysis is reproducible?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your process for validating data quality before analysis."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle situations where stakeholders disagree with your findings?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to work with messy or incomplete data."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you prioritize which analyses to perform when time is limited?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Tell me about a time you discovered unexpected insights from data."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is feature engineering and why is it important?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain the bias-variance tradeoff."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some common evaluation metrics for classification problems?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you handle imbalanced datasets in classification problems?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain the difference between bagging and boosting."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What is cross-validation and why is it important?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "Explain the central limit theorem and its importance."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "What is multicollinearity and how does it affect regression models?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "Explain how you would determine the appropriate sample size for an experiment."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "What are some methods for handling outliers in your data?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "Explain the concept of statistical power and how it relates to sample size."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "How would you design an A/B test to measure the impact of a new feature?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "What are some common pitfalls in statistical analysis and how do you avoid them?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "Explain how you would assess whether your data meets the assumptions of a particular statistical test."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when your analysis led to a significant business decision."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you prioritize which data science projects to work on?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you communicate technical limitations of your models to business stakeholders?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to simplify complex analysis for non-technical audiences."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you balance statistical rigor with business practicality in your work?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe your approach to documenting your analysis process."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you handle situations where data quality issues threaten project timelines?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to defend your methodology to skeptical colleagues."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some common techniques for dimensionality reduction?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you design an A/B testing framework for a web application?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain how you would implement a recommendation system."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you deploy a machine learning model in production?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What strategies would you use to handle large datasets that don't fit in memory?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain how deep learning differs from traditional machine learning."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "How do you validate a predictive model in production?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "Explain Bayesian inference and its applications in data science."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "How would you design a sequential testing framework for multiple experiments?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "Explain how you would handle multiple comparison problems in large-scale testing."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "What strategies would you use for causal inference from observational data?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "How would you design a system to monitor model performance drift over time?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "Explain how you would implement Bayesian approaches in A/B testing."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "What are some advanced techniques for handling missing data in statistical analysis?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to defend your statistical approach to skeptical colleagues."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you handle a situation where business stakeholders disagree with your data-driven recommendations?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you align data science initiatives with broader business strategy?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to building and leading a data science team."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you foster collaboration between data scientists and other departments?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to make a difficult trade-off between model complexity and interpretability."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you measure the ROI of data science projects?"
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Tell me about a time you successfully influenced executive decisions with data."
+    },
+    {
+      "job": "Data Scientist",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What are some challenges in implementing machine learning models in real-world applications?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Product Sense",
+      "text": "How do you prioritize features for a product roadmap?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Product Sense",
+      "text": "What metrics would you track to measure a product's success?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Product Sense",
+      "text": "How would you gather customer requirements for a new product?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Product Sense",
+      "text": "Explain the difference between a product vision and product strategy."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Product Sense",
+      "text": "What is a minimum viable product (MVP) and why is it important?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to say no to a feature request."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle disagreements between engineering and design teams?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you gather and prioritize user feedback?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your approach to working with cross-functional teams."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle situations where engineering estimates exceed business expectations?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to make a decision with incomplete information."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you stay informed about industry trends and competitor products?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to adapt your product strategy based on new information."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Execution",
+      "text": "How would you create alignment across teams for a product launch?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Execution",
+      "text": "What tools would you use to track product development progress?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Execution",
+      "text": "How do you create alignment across teams for a product initiative?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Execution",
+      "text": "Describe your approach to writing user stories or product requirements."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Execution",
+      "text": "How do you track and communicate product development progress?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Execution",
+      "text": "What tools do you use to manage product backlogs and why?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Execution",
+      "text": "How do you ensure smooth handoffs between design, engineering, and QA?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Execution",
+      "text": "Describe your approach to conducting product demos or walkthroughs."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What technical concepts should every product manager understand?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "How would you explain APIs to a non-technical stakeholder?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are the key differences between frontend and backend development?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "How would you assess technical feasibility of a product feature?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What questions would you ask engineers to understand implementation complexity?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "How do you stay informed about relevant technical trends?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What metrics would you use to measure technical health of a product?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "How would you explain database concepts to business stakeholders?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are some common technical constraints that impact product decisions?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Product Sense",
+      "text": "How would you improve our competitor's product?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Product Sense",
+      "text": "How do you determine pricing for a new product?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Product Sense",
+      "text": "What factors would you consider when deciding to build vs. buy a solution?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Product Sense",
+      "text": "How would you approach entering a new market with an existing product?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Product Sense",
+      "text": "What strategies would you use to increase user engagement?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when you used data to make a product decision."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you handle feature requests from executives?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you balance user needs with technical constraints?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to deprioritize a feature that stakeholders wanted."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you handle disagreements between product and engineering teams?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Tell me about a time you used data to influence product direction."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you approach creating product documentation for different audiences?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to pivot a product feature based on user testing."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Execution",
+      "text": "How would you handle a product launch that's behind schedule?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Execution",
+      "text": "What's your approach to writing product requirements?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Execution",
+      "text": "How do you break down large initiatives into manageable deliverables?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Execution",
+      "text": "Describe your approach to managing technical debt in product development."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Execution",
+      "text": "How do you handle scope creep during product development?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Execution",
+      "text": "What strategies do you use to keep cross-functional teams aligned?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Execution",
+      "text": "How do you measure progress on product development initiatives?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Execution",
+      "text": "What's your approach to conducting sprint planning sessions?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you work with engineering to estimate project timelines?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you assess technical debt in a product?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What questions would you ask to understand system architecture limitations?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you explain technical trade-offs to business stakeholders?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What metrics would you use to track technical performance of a product?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you approach a technical feasibility assessment for a new feature?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some common API considerations product managers should understand?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you work with engineers to prioritize technical improvements?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some key database concepts product managers should know?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Product Sense",
+      "text": "How would you pivot a failing product?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Product Sense",
+      "text": "What strategies would you use to monetize a free product?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Product Sense",
+      "text": "How would you approach building a product roadmap for a completely new market?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Product Sense",
+      "text": "How do you balance short-term business needs with long-term product vision?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Product Sense",
+      "text": "How would you measure the success of a platform product with multiple stakeholders?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to make a difficult trade-off between user needs and business goals."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you handle a situation where your product vision conflicts with company leadership?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you align product strategy with company vision at an executive level?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to managing stakeholder expectations for a high-profile product."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you foster innovation within your product team?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Tell me about a time you successfully led a product through a major market shift."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you measure and communicate product success to executives?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to make a difficult trade-off between short-term gains and long-term product health."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Execution",
+      "text": "How would you reorganize product teams to improve efficiency?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Execution",
+      "text": "What's your approach to building and managing a product management team?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Execution",
+      "text": "How would you align multiple product teams to a common vision?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Execution",
+      "text": "Describe your approach to scaling product processes in a growing organization."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Execution",
+      "text": "How would you implement agile methodologies across multiple teams?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Execution",
+      "text": "What strategies would you use to improve cross-team collaboration?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Execution",
+      "text": "How would you measure and improve product development velocity?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Execution",
+      "text": "Describe your approach to managing dependencies between multiple product teams."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Estimation",
+      "text": "Estimate the time and resources needed to launch a new feature for 1M users."
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Estimation",
+      "text": "How would you estimate market size for a new product feature?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Estimation",
+      "text": "What factors would you consider when estimating development timelines for a complex feature?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Estimation",
+      "text": "How would you estimate the impact of a new feature on key business metrics?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Estimation",
+      "text": "What methods would you use to estimate customer adoption of a new product?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Estimation",
+      "text": "How would you estimate the technical resources needed for a major product overhaul?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Estimation",
+      "text": "What data would you use to estimate the potential revenue from a new product line?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Estimation",
+      "text": "How would you estimate the impact of a pricing change on customer retention?"
+    },
+    {
+      "job": "Product Manager",
+      "difficulty": "Experienced",
+      "role": "Estimation",
+      "text": "What approach would you take to estimate market demand for a completely new product category?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Principles",
+      "text": "What are the key principles of good user interface design?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Principles",
+      "text": "Explain the difference between UX and UI design."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Principles",
+      "text": "What is user-centered design and why is it important?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Principles",
+      "text": "What are some common usability heuristics?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Principles",
+      "text": "How do you conduct user research?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Tools",
+      "text": "What design tools are you familiar with and when would you use each?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Tools",
+      "text": "How do you create wireframes and what purpose do they serve?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Tools",
+      "text": "What prototyping tools have you used and what are their strengths?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Tools",
+      "text": "How do you document design systems?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Tools",
+      "text": "What tools do you use for user flow diagrams?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Tools",
+      "text": "How do you collaborate with developers using design tools?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Tools",
+      "text": "What tools do you use for accessibility testing?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Tools",
+      "text": "How do you version control your design files?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle feedback on your designs?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to advocate for user needs against business constraints."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you approach design critiques?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to compromise on design quality for deadlines."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you stay updated with design trends?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to defend your design decisions."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle conflicting feedback from stakeholders?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your approach to collaborating with product managers."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Challenge",
+      "text": "How would you improve the user experience of a common household appliance?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Challenge",
+      "text": "Design a better way to set alarms on a smartphone."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Challenge",
+      "text": "Improve the checkout flow for an e-commerce site."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Challenge",
+      "text": "Redesign a weather app for better usability."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Challenge",
+      "text": "Design a mobile interface for a banking app."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Challenge",
+      "text": "Improve the search experience for a music streaming app."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Challenge",
+      "text": "Redesign a public transportation ticket machine interface."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Challenge",
+      "text": "Design a better way to navigate a large e-commerce site."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Beginner",
+      "role": "Design Challenge",
+      "text": "Improve the onboarding experience for a productivity app."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Principles",
+      "text": "How do you approach creating user journeys for a new feature?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Principles",
+      "text": "What are some techniques for designing accessible interfaces?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Principles",
+      "text": "How would you design for different user personas?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Principles",
+      "text": "What are some common pitfalls in mobile UX design?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Principles",
+      "text": "How do you measure the success of a UX design?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Tools",
+      "text": "How would you create and test interactive prototypes?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Tools",
+      "text": "What's your process for conducting usability tests?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Tools",
+      "text": "How do you use analytics tools to inform design decisions?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Tools",
+      "text": "What's your approach to creating design documentation?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Tools",
+      "text": "How do you conduct remote user testing?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Tools",
+      "text": "What tools do you use for collaborative design sessions?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Tools",
+      "text": "How do you measure design system adoption?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Tools",
+      "text": "What's your process for conducting A/B tests on designs?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when user research findings surprised you."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you collaborate with developers during implementation?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to balance user needs with technical constraints."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you handle situations where stakeholders want to prioritize aesthetics over usability?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to advocate for accessibility in a design."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you approach design handoffs to development teams?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe your process for incorporating feedback into design iterations."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you measure the impact of your design changes?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Challenge",
+      "text": "Redesign the checkout flow for an e-commerce site to reduce cart abandonment."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Challenge",
+      "text": "Design a dashboard for a health tracking app."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Challenge",
+      "text": "Improve the search functionality for a large document repository."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Challenge",
+      "text": "Redesign a mobile banking app for elderly users."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Challenge",
+      "text": "Design a notification system that minimizes user disruption."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Challenge",
+      "text": "Create a user flow for a new social media feature."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Challenge",
+      "text": "Design an accessible color scheme for a financial application."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Challenge",
+      "text": "Redesign a government website to improve citizen engagement."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Intermediate",
+      "role": "Design Challenge",
+      "text": "Design a multi-language interface for a global product."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Principles",
+      "text": "How would you establish a design system for a large organization?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Principles",
+      "text": "What strategies would you use to scale UX processes across multiple product teams?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Principles",
+      "text": "How would you approach designing for emerging technologies like AR/VR?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Principles",
+      "text": "What's your approach to designing for global audiences with cultural differences?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Principles",
+      "text": "How would you balance innovation with usability in a new product?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Tools",
+      "text": "How would you implement and maintain a design system?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Tools",
+      "text": "What metrics would you use to measure design system adoption?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Tools",
+      "text": "How would you implement a design token system across platforms?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Tools",
+      "text": "What's your approach to versioning design systems?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Tools",
+      "text": "How would you measure ROI of design system implementation?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Tools",
+      "text": "What tools would you use to manage design at scale?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Tools",
+      "text": "How would you implement design ops in an organization?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Tools",
+      "text": "What's your approach to integrating design tools with developer workflows?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe how you would build and lead a UX design team."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you align UX strategy with business goals at an executive level?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to building a UX culture in an organization."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you advocate for UX at the executive level?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Tell me about a time you influenced product strategy through UX research."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you measure the impact of UX on business outcomes?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to mentoring junior designers."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you handle conflicts between design and business priorities?"
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Challenge",
+      "text": "Design a voice interface for a complex task traditionally done via GUI."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Challenge",
+      "text": "Design a multi-modal interface combining voice, touch, and gesture."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Challenge",
+      "text": "Create a design system for a suite of enterprise applications."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Challenge",
+      "text": "Design an onboarding experience for a complex B2B software product."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Challenge",
+      "text": "Redesign a legacy system with minimal disruption to existing users."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Challenge",
+      "text": "Design a dashboard for real-time monitoring of industrial equipment."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Challenge",
+      "text": "Create an accessibility strategy for a large e-commerce platform."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Challenge",
+      "text": "Design a cross-platform experience for a productivity suite."
+    },
+    {
+      "job": "UX Designer",
+      "difficulty": "Experienced",
+      "role": "Design Challenge",
+      "text": "Redesign a government service to improve digital inclusion."
+    },
+
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is the Virtual DOM and why is it useful?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain the difference between HTML and XHTML."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are semantic HTML elements and why are they important?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "How does CSS specificity work?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is the box model in CSS?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain the difference between == and === in JavaScript."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are JavaScript promises and how do they work?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are some ways to improve website performance?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain event bubbling and capturing in JavaScript."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are CSS preprocessors and why might you use one?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you stay updated with new frontend technologies?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your process for debugging a frontend issue."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you approach learning a new JavaScript framework?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to fix a tricky CSS layout issue."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle browser compatibility issues?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Tell me about a time you improved website performance."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you collaborate with designers in your workflow?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your approach to responsive design implementation."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you ensure your code is maintainable?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "What's your process for testing frontend code?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain how CSS Flexbox works and give an example use case."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are React hooks and when would you use them?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you implement responsive design for a complex layout?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain the concept of CSS-in-JS and its benefits."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some strategies for managing state in a large frontend application?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you optimize a slow-loading web page?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are Web Components and when would you use them?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain how the JavaScript event loop works."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some common performance bottlenecks in SPAs?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you implement lazy loading of components?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a challenging frontend problem you solved and how you approached it."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you ensure cross-browser compatibility in your projects?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time you had to refactor legacy frontend code."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you approach accessibility in your frontend work?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Tell me about a time you implemented a complex UI interaction."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you stay productive when working with large codebases?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe your approach to frontend testing strategies."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you handle state management in complex applications?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to optimize frontend performance."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you approach security in frontend development?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you structure a component library for a large organization?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a frontend architecture for a content-heavy website."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you implement a design system in code?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design an authentication flow for a single page application."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you structure a large-scale React application?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a real-time dashboard with frequently updating data."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you implement internationalization in a frontend app?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a frontend caching strategy for API responses."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you structure a monorepo for frontend components?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design an error tracking and reporting system for frontend."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you implement server-side rendering in a React application?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain how you would implement progressive web app (PWA) features."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What strategies would you use to implement real-time updates in a frontend application?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you architect a micro-frontend solution?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain the performance implications of different state management solutions."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you optimize a React application for SEO?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What are some advanced techniques for code splitting in modern frameworks?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you implement a custom renderer for React?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain how to implement Web Workers for CPU-intensive tasks."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What strategies would you use for bundle size optimization?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe how you would lead frontend architecture decisions for a team."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you mentor junior frontend developers?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to technical debt management in frontend projects."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you drive adoption of new frontend technologies in an organization?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to make a difficult technical trade-off."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you align frontend architecture with business goals?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to performance budgeting for frontend projects."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you handle technical disagreements with other senior developers?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your strategy for maintaining large design systems."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you improve frontend developer experience in a large team?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a frontend architecture for a large-scale single page application."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a frontend build system for multiple environments?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a micro-frontend architecture for an enterprise application."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you implement a design system at scale?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design an offline-first progressive web application."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you architect a frontend monorepo for multiple teams?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a frontend performance monitoring system."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you implement A/B testing at the component level?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a frontend architecture for a multi-tenant SaaS application."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you implement gradual migration from legacy frontend to modern stack?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you structure the components for a simple todo app?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Design the frontend architecture for a blog website."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you organize CSS styles for a medium-sized project?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What would you consider when designing a reusable button component?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you structure a small React/Vue application?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Design a simple client-side routing solution for a static website."
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you implement a dark/light mode toggle?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What's your approach to organizing API calls in a frontend app?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you design a responsive image gallery component?"
+    },
+    {
+      "job": "Frontend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What considerations would you make for a mobile-first form design?"
+    },
+
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain the concept of REST and HTTP methods."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is the difference between SQL and NoSQL databases?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are the main components of a web application architecture?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain what an API is and why it's used."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are some common authentication methods for web applications?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is database normalization?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain the concept of ACID properties in databases."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are some common security concerns for backend systems?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain the difference between stateful and stateless protocols."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are the advantages of using middleware in web applications?"
+    },
+
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your process for debugging a backend issue."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you ensure the code you write is maintainable?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you approach learning a new backend framework?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe a time you had to optimize a slow database query."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle errors in your backend code?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to work with legacy backend code."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you stay updated with backend development trends?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your approach to writing technical documentation."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you verify the correctness of your backend implementations?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "What's your process for testing backend services?"
+    },
+
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you design a simple REST API for a todo application?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What would you consider when designing a database schema for a blog?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you structure a basic CRUD service?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Design a simple authentication system for a web app."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you implement file uploads in a web application?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What considerations would you make for a basic caching strategy?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you design a simple logging system for a backend service?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Design a basic monitoring setup for a backend application."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you structure environment configurations for a backend app?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What would you include in a basic CI/CD pipeline for backend services?"
+    },
+
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What is database indexing and when would you use it?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain the concept of database sharding."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you implement rate limiting in an API?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some strategies for handling database migrations?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain the difference between synchronous and asynchronous processing."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you optimize a slow database query?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some common caching strategies for backend systems?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain how connection pooling works in database systems."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some techniques for securing API endpoints?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you implement background job processing?"
+    },
+
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to scale a backend system."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you approach writing technical documentation for APIs?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to troubleshoot a production issue."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you balance technical debt with feature development?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time you improved backend performance significantly."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you handle disagreements about technical approaches?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Tell me about a challenging database design problem you solved."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you ensure reliability in your backend services?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe your approach to API versioning."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you mentor junior backend developers?"
+    },
+
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you design a URL shortening service?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design an API gateway for microservices."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you implement a real-time notification system?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a scalable image processing service."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you architect a multi-tenant SaaS application?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a distributed caching layer for a high-traffic website."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you implement a search feature for an e-commerce site?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a system for processing background jobs at scale."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you design an API for a social media platform?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a data synchronization system for offline-first applications."
+    },
+
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you design a distributed transaction system?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain how you would implement event sourcing in a microservices architecture."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What strategies would you use to ensure data consistency across distributed systems?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you design a system to handle millions of concurrent connections?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain the tradeoffs between different database consistency models."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you implement zero-downtime deployments for critical systems?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What are some advanced techniques for database replication?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain how you would implement circuit breakers in a distributed system."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you design a system for real-time analytics processing?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What strategies would you use for global data distribution?"
+    },
+
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe how you would lead technical decisions for a backend team."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you mentor junior backend developers?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to incident management for critical systems."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you drive technical excellence in a backend engineering team?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to make a difficult architectural trade-off."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you align technical decisions with business objectives?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to capacity planning for backend systems."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you handle a major system outage?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your strategy for technical debt management in large systems."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you evaluate new backend technologies for adoption?"
+    },
+
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a RESTful API for a social media feed with pagination and filters."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a globally distributed database system?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a system for processing financial transactions with strong consistency."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you architect a multi-region deployment for high availability?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design an event-driven architecture for an e-commerce platform."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you implement a distributed locking mechanism?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a system for real-time collaborative editing (like Google Docs)."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you architect a system to handle sudden traffic spikes?"
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a recommendation system backend for an e-commerce platform."
+    },
+    {
+      "job": "Backend Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you implement a globally distributed cache invalidation strategy?"
+    },
+
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are the key differences between native and hybrid mobile apps?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain the mobile app lifecycle in Android or iOS."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are some common mobile app architectures?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "How do you handle different screen sizes in mobile development?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are some techniques for optimizing mobile app performance?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain how mobile apps handle offline functionality."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are some common security considerations for mobile apps?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What tools do you use for mobile app debugging?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain the difference between stateful and stateless widgets in Flutter."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are some common navigation patterns in mobile apps?"
+    },
+
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your process for testing a mobile app before release."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you stay updated with mobile platform changes?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you approach debugging a crashing mobile app?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe a time you had to optimize a slow-performing mobile app."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle platform-specific differences in mobile development?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Tell me about a challenging UI implementation you worked on."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you ensure your mobile app is accessible?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your approach to handling user feedback about app issues."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you prioritize features for a mobile app release?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "What's your process for staying current with mobile design trends?"
+    },
+
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you structure the components for a simple weather app?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Design a basic architecture for a note-taking mobile app."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you implement local data storage in a mobile app?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Design a simple authentication flow for a mobile application."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you structure API calls in a mobile app?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Design a basic error handling strategy for a mobile app."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you implement a simple caching mechanism?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Design a basic logging system for troubleshooting mobile apps."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you structure a multi-screen mobile application?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Design a simple image loading and caching solution."
+    },
+
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How do you handle platform-specific code (Android/iOS) in Flutter?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What strategies would you use to reduce mobile app battery consumption?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you implement background tasks in a mobile app?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain how you would handle data synchronization in a mobile app."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some techniques for reducing mobile app startup time?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you implement deep linking in a mobile app?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some strategies for handling memory management in mobile apps?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you implement biometric authentication in a mobile app?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain how you would handle different network conditions in a mobile app."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some techniques for implementing smooth animations in mobile apps?"
+    },
+
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a challenging mobile app problem you solved and how you approached it."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you ensure your mobile app works well across different devices?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to optimize an app for low-end devices."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you handle platform-specific UI/UX requirements?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time you had to implement a complex mobile animation."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you approach testing across multiple device configurations?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Tell me about a time you improved mobile app performance significantly."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you handle backwards compatibility in mobile apps?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe your approach to mobile app security best practices."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you collaborate with designers in mobile app development?"
+    },
+
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you design a mobile app that needs to work offline?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a photo-sharing feature for a social media app."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you implement real-time updates in a messaging app?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a caching strategy for a media-heavy mobile application."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you structure a mobile app with multiple authentication methods?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a location-based feature for a mobile app."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you implement in-app purchases in a mobile game?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a push notification system for a mobile application."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you structure a mobile app with role-based access?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a data synchronization system for an offline-first mobile app."
+    },
+
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you architect a cross-platform mobile app for maximum code reuse?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What strategies would you use to implement real-time features in a mobile app?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you implement automated testing for a complex mobile app?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain how you would handle app updates with breaking API changes."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What are some advanced techniques for mobile app security?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you implement feature flags in a mobile application?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What strategies would you use for implementing accessibility in mobile apps?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you optimize a mobile app for emerging markets with poor connectivity?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain how you would implement A/B testing in a mobile app."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What are some strategies for implementing CI/CD for mobile apps?"
+    },
+
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe how you would lead mobile development best practices in a team."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you mentor junior mobile developers?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to mobile app architecture decisions."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you drive adoption of new mobile technologies in an organization?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to make a difficult technical trade-off in mobile development."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you align mobile development with business objectives?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to mobile app performance optimization at scale."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you handle a critical mobile app security vulnerability?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your strategy for mobile app release management."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you evaluate new mobile frameworks for adoption?"
+    },
+
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design an offline-first mobile app that syncs data when online."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a mobile app architecture for long-term maintainability?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a mobile payment system with strong security requirements."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you architect a mobile app with multiple dynamic feature modules?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a real-time collaborative editing mobile application."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you implement a multi-platform design system for mobile apps?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a mobile app with role-based access control and permissions."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you architect a mobile app for global markets with varying connectivity?"
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a mobile app analytics and monitoring system."
+    },
+    {
+      "job": "Mobile App Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you implement gradual rollout of mobile app features?"
+    },
+
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is the difference between artificial intelligence and machine learning?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain the difference between classification and regression."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are some common machine learning algorithms?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is training data and test data in machine learning?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain what overfitting is in machine learning."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is feature engineering and why is it important?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain the concept of neural networks at a high level."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What are some common libraries used in machine learning?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "Explain the difference between supervised and unsupervised learning."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Technical",
+      "text": "What is cross-validation and why is it used?"
+    },
+
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "What is the difference between mean and median?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "Explain the concept of normal distribution."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "What is a p-value in statistics?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "Explain what a correlation coefficient measures."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "What is the difference between correlation and causation?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "Explain Type I and Type II errors in hypothesis testing."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "What is statistical significance?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "Explain the concept of confidence intervals."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "What are some common probability distributions used in ML?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Statistics",
+      "text": "How would you explain regression to a non-technical audience?"
+    },
+
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you stay updated with advancements in AI/ML?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your process for evaluating machine learning models."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle missing or incomplete data in a dataset?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to explain complex data insights to non-technical stakeholders."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you approach selecting the right model for a problem?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your process for cleaning and preparing data."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you handle situations where your model isn't performing as expected?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Tell me about a time you discovered unexpected insights from data."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "How do you ensure your analysis is reproducible?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "Behavioral",
+      "text": "Describe your approach to documenting your ML projects."
+    },
+
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you design a simple ML pipeline for a classification problem?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What components would you include in a basic ML system architecture?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you structure a project for training and evaluating a model?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Design a simple data preprocessing pipeline."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you implement model versioning in a basic ML system?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What would you include in a basic feature store design?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you design a simple API for model inference?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "Design a basic monitoring system for model performance."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you structure a project for hyperparameter tuning?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What considerations would you make for a basic batch prediction system?"
+    },
+
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What is overfitting and how can you prevent it?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain the bias-variance tradeoff in machine learning."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you handle imbalanced datasets in classification problems?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some techniques for dimensionality reduction?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain how gradient descent works."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What are some common evaluation metrics for classification models?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you implement a recommendation system?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "Explain the difference between bagging and boosting."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "What is transfer learning and when would you use it?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Technical",
+      "text": "How would you handle missing data in a dataset?"
+    },
+
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "Explain the central limit theorem and its importance."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "What is multicollinearity and how does it affect regression models?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "Explain how you would determine the appropriate sample size for an experiment."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "What are some methods for handling outliers in your data?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "Explain the concept of statistical power and how it relates to sample size."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "How would you design an A/B test to measure the impact of a new feature?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "What are some common pitfalls in statistical analysis and how do you avoid them?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "Explain how you would assess whether your data meets the assumptions of a particular statistical test."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "What is the curse of dimensionality in machine learning?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Statistics",
+      "text": "Explain the difference between parametric and non-parametric tests."
+    },
+
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when your analysis led to a significant business decision."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you prioritize which data science projects to work on?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you communicate technical limitations of your models to business stakeholders?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to simplify complex analysis for non-technical audiences."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you balance statistical rigor with business practicality in your work?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe your approach to documenting your analysis process."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you handle situations where data quality issues threaten project timelines?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Tell me about a time you had to defend your methodology to skeptical colleagues."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "Describe a time you had to make a trade-off between model complexity and interpretability."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "Behavioral",
+      "text": "How do you handle disagreements about modeling approaches with team members?"
+    },
+
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you design an ML pipeline for continuous training?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a feature engineering pipeline for a recommendation system."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you implement model versioning and rollback capabilities?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a system for monitoring model drift in production."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you structure a machine learning project for reproducibility?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design an A/B testing framework for comparing model performance."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you implement a feature store for an ML platform?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design a system for hyperparameter tuning at scale."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you structure a CI/CD pipeline for machine learning models?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "Design an API for serving multiple machine learning models."
+    },
+
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain how transformers work at a high level."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you implement a computer vision system for object detection?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What strategies would you use for hyperparameter tuning at scale?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain how you would deploy a machine learning model in production."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What are some techniques for implementing federated learning?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you handle large datasets that don't fit in memory?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "Explain how deep learning differs from traditional machine learning."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What are some challenges in implementing ML models in real-world applications?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "How would you implement explainability techniques for complex models?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Technical",
+      "text": "What strategies would you use for model compression and optimization?"
+    },
+
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "How do you validate a predictive model in production?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "Explain Bayesian inference and its applications in data science."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "How would you design a sequential testing framework for multiple experiments?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "Explain how you would handle multiple comparison problems in large-scale testing."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "What strategies would you use for causal inference from observational data?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "How would you design a system to monitor model performance drift over time?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "Explain how you would implement Bayesian approaches in A/B testing."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "What are some advanced techniques for handling missing data in statistical analysis?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "How would you assess the fairness and bias in machine learning models?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Statistics",
+      "text": "Explain the concept of uncertainty quantification in ML models."
+    },
+
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to defend your statistical approach to skeptical colleagues."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you handle a situation where business stakeholders disagree with your data-driven recommendations?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you align data science initiatives with broader business strategy?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to building and leading a data science team."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you foster collaboration between data scientists and other departments?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe a time when you had to make a difficult trade-off between model complexity and interpretability."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How do you measure the ROI of data science projects?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Tell me about a time you successfully influenced executive decisions with data."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "How would you handle ethical concerns in an AI/ML project?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "Behavioral",
+      "text": "Describe your approach to technical leadership in AI/ML projects."
+    },
+
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a system for real-time ML inference at scale."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design an ML platform for multiple teams in an organization?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a feature store for a large-scale ML system."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you implement continuous training for models in production?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a system for monitoring and alerting on model performance degradation."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you architect a multi-model serving system with version control?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a system for explainable AI in production models."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you implement a canary release strategy for ML models?"
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "Design a data validation system for ML pipelines."
+    },
+    {
+      "job": "AI/ML Engineer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a system for federated learning across multiple organizations?"
+    },
+
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Language Fundamentals",
+      "text": "Explain the difference between lists and tuples in Python."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Language Fundamentals",
+      "text": "What are Python decorators and how would you use them?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Language Fundamentals",
+      "text": "Explain how Python's garbage collection works."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Language Fundamentals",
+      "text": "What is the difference between 'is' and '==' in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Language Fundamentals",
+      "text": "How does Python handle memory management?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Language Fundamentals",
+      "text": "Explain the Global Interpreter Lock (GIL) in Python."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Language Fundamentals",
+      "text": "What are Python context managers and how do you use them?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Language Fundamentals",
+      "text": "Explain Python's name mangling and when it's used."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Language Fundamentals",
+      "text": "What are Python metaclasses and when would you use them?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Language Fundamentals",
+      "text": "Explain the difference between __str__ and __repr__ in Python."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Web Development",
+      "text": "What are the key differences between Flask and Django?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Web Development",
+      "text": "How would you create a basic REST API in Flask?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Web Development",
+      "text": "Explain WSGI and its role in Python web development."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Web Development",
+      "text": "What are Django migrations and how do they work?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Web Development",
+      "text": "How would you handle authentication in a Django application?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Web Development",
+      "text": "What is the Django ORM and how does it differ from SQLAlchemy?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Web Development",
+      "text": "How would you implement caching in a Python web application?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Web Development",
+      "text": "Explain how to handle file uploads in a Flask application."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Web Development",
+      "text": "What are Django middleware and how would you create one?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Web Development",
+      "text": "How would you implement pagination in a Django REST API?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Data Processing",
+      "text": "What are the main differences between NumPy arrays and Python lists?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Data Processing",
+      "text": "How would you read and write CSV files in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Data Processing",
+      "text": "Explain how to use pandas to clean and transform data."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Data Processing",
+      "text": "What are Python generators and when would you use them?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Data Processing",
+      "text": "How would you handle missing data in pandas?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Data Processing",
+      "text": "Explain the difference between merge, join, and concat in pandas."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Data Processing",
+      "text": "How would you optimize performance when working with large datasets in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Data Processing",
+      "text": "What are some common data visualization libraries in Python and when would you use each?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Data Processing",
+      "text": "How would you process JSON data in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Beginner",
+      "role": "Data Processing",
+      "text": "Explain how to use Python's multiprocessing module for data processing tasks."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Language Fundamentals",
+      "text": "Explain Python's descriptor protocol and provide a use case."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Language Fundamentals",
+      "text": "How would you implement a custom iterator in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Language Fundamentals",
+      "text": "What are Python's magic methods and how would you use them?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Language Fundamentals",
+      "text": "Explain how to use asyncio for asynchronous programming in Python."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Language Fundamentals",
+      "text": "How would you implement thread-safe operations in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Language Fundamentals",
+      "text": "What are Python's data classes and when would you use them?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Language Fundamentals",
+      "text": "Explain how to use functools.partial and provide a use case."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Language Fundamentals",
+      "text": "How would you implement a singleton pattern in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Language Fundamentals",
+      "text": "What are Python's abstract base classes and when would you use them?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Language Fundamentals",
+      "text": "Explain how to use Python's property decorator effectively."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Web Development",
+      "text": "How would you implement JWT authentication in a Django REST API?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Web Development",
+      "text": "Explain how to optimize database queries in Django."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Web Development",
+      "text": "How would you implement background tasks in a Flask application?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Web Development",
+      "text": "What are Django signals and how would you use them?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Web Development",
+      "text": "How would you implement rate limiting in a FastAPI application?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Web Development",
+      "text": "Explain how to implement websockets in a Python web application."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Web Development",
+      "text": "How would you structure a large Flask application?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Web Development",
+      "text": "What are Django's class-based views and when would you use them?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Web Development",
+      "text": "How would you implement file uploads to S3 in a Django application?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Web Development",
+      "text": "Explain how to implement GraphQL in a Python web application."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Data Processing",
+      "text": "How would you optimize pandas operations for large datasets?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Data Processing",
+      "text": "Explain how to use Dask for parallel computing with large datasets."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Data Processing",
+      "text": "How would you implement a custom pandas DataFrame accessor?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Data Processing",
+      "text": "What are some strategies for handling out-of-memory datasets in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Data Processing",
+      "text": "Explain how to use Python's concurrent.futures for data processing."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Data Processing",
+      "text": "How would you implement a data pipeline using Python generators?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Data Processing",
+      "text": "What are some techniques for optimizing NumPy array operations?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Data Processing",
+      "text": "How would you implement custom aggregations in pandas?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Data Processing",
+      "text": "Explain how to use PySpark for large-scale data processing."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Intermediate",
+      "role": "Data Processing",
+      "text": "How would you implement a streaming data processing pipeline in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Language Fundamentals",
+      "text": "Explain how to extend Python with C extensions."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Language Fundamentals",
+      "text": "How would you implement a custom memory allocator in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Language Fundamentals",
+      "text": "What are Python's weak references and when would you use them?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Language Fundamentals",
+      "text": "Explain how to implement a custom import hook in Python."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Language Fundamentals",
+      "text": "How would you optimize Python bytecode for performance-critical applications?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Language Fundamentals",
+      "text": "What are Python's coroutines and how do they differ from generators?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Language Fundamentals",
+      "text": "Explain how to implement a custom Python interpreter."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Language Fundamentals",
+      "text": "How would you implement a domain-specific language in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Language Fundamentals",
+      "text": "What are Python's buffer protocols and when would you use them?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Language Fundamentals",
+      "text": "Explain how to implement a custom garbage collection strategy in Python."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Web Development",
+      "text": "How would you design a horizontally scalable Python web application?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Web Development",
+      "text": "Explain how to implement a custom Django database router."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Web Development",
+      "text": "How would you design a high-performance REST API in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Web Development",
+      "text": "What strategies would you use to minimize latency in a Python web service?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Web Development",
+      "text": "How would you implement a real-time collaborative editing feature in a web app?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Web Development",
+      "text": "Explain how to implement a custom WSGI server."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Web Development",
+      "text": "How would you design a multi-tenant SaaS application in Django?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Web Development",
+      "text": "What strategies would you use for zero-downtime deployments of Python web apps?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Web Development",
+      "text": "How would you implement a custom authentication backend in Django?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Web Development",
+      "text": "Explain how to implement a distributed task queue for a Python web application."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Data Processing",
+      "text": "How would you design a distributed data processing pipeline in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Data Processing",
+      "text": "Explain how to implement incremental processing of streaming data in Python."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Data Processing",
+      "text": "How would you optimize a machine learning feature pipeline in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Data Processing",
+      "text": "What strategies would you use for processing petabyte-scale datasets in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Data Processing",
+      "text": "How would you implement a custom NumPy ufunc for performance-critical operations?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Data Processing",
+      "text": "Explain how to implement out-of-core processing of large datasets in Python."
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Data Processing",
+      "text": "How would you design a system for real-time analytics processing in Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Data Processing",
+      "text": "What strategies would you use for distributed data processing with Python?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Data Processing",
+      "text": "How would you implement a custom pandas extension type?"
+    },
+    {
+      "job": "Python Developer",
+      "difficulty": "Experienced",
+      "role": "Data Processing",
+      "text": "Explain how to implement a high-performance time series database in Python."
+    },
+
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Core Java",
+      "text": "What is the difference between JDK, JRE, and JVM?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Core Java",
+      "text": "Explain the main features of Java."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Core Java",
+      "text": "What are the primitive data types in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Core Java",
+      "text": "What is the difference between == and .equals() in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Core Java",
+      "text": "What is method overloading in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Core Java",
+      "text": "What is the difference between ArrayList and LinkedList?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Core Java",
+      "text": "Explain the concept of inheritance in Java."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Core Java",
+      "text": "What is the purpose of the 'static' keyword in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Core Java",
+      "text": "What is an interface in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Core Java",
+      "text": "How does exception handling work in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Core Java",
+      "text": "Explain the Java memory model and garbage collection."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Core Java",
+      "text": "What are the differences between final, finally, and finalize?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Core Java",
+      "text": "How does Java handle multithreading and concurrency?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Core Java",
+      "text": "What are Java streams and how do they work?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Core Java",
+      "text": "Explain the diamond problem in Java and how it's resolved."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Core Java",
+      "text": "What are Java annotations and how would you create a custom one?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Core Java",
+      "text": "How does Java handle pass-by-value and pass-by-reference?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Core Java",
+      "text": "What are the differences between checked and unchecked exceptions?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Core Java",
+      "text": "Explain the Java Collections Framework hierarchy."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Core Java",
+      "text": "What are Java generics and how do they provide type safety?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Core Java",
+      "text": "Explain the Java module system introduced in Java 9."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Core Java",
+      "text": "How would you implement a custom class loader in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Core Java",
+      "text": "Explain the differences between synchronized and ReentrantLock."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Core Java",
+      "text": "How would you design a thread-safe singleton in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Core Java",
+      "text": "What are Java's memory visibility guarantees in multithreading?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Core Java",
+      "text": "Explain the Java Memory Model's happens-before relationship."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Core Java",
+      "text": "How would you implement a custom annotation processor?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Core Java",
+      "text": "What are the performance implications of Java reflection?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Core Java",
+      "text": "Explain the differences between PhantomReference, SoftReference, and WeakReference."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Core Java",
+      "text": "How would you implement a custom JVM agent?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Spring Framework",
+      "text": "What is Spring Framework and what are its core features?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Spring Framework",
+      "text": "What is dependency injection in Spring?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Spring Framework",
+      "text": "What is the difference between @Component, @Service, and @Repository?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Spring Framework",
+      "text": "How do you create a simple REST controller in Spring Boot?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Spring Framework",
+      "text": "What is Spring Boot and how does it differ from Spring Framework?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Spring Framework",
+      "text": "How do you configure a datasource in Spring Boot?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Spring Framework",
+      "text": "What is the purpose of the application.properties file in Spring Boot?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Spring Framework",
+      "text": "How do you handle exceptions in a Spring REST application?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Spring Framework",
+      "text": "What is Spring MVC and how does it work?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Spring Framework",
+      "text": "How do you perform dependency injection using constructor injection in Spring?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Spring Framework",
+      "text": "Explain the Spring Bean lifecycle."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Spring Framework",
+      "text": "What are Spring Profiles and how would you use them?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Spring Framework",
+      "text": "How would you implement transaction management in Spring?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Spring Framework",
+      "text": "What is Spring AOP and what are its typical use cases?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Spring Framework",
+      "text": "How would you secure a Spring Boot application?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Spring Framework",
+      "text": "What is the difference between Spring's @Controller and @RestController?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Spring Framework",
+      "text": "How would you implement caching in a Spring Boot application?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Spring Framework",
+      "text": "What are Spring Boot starters and how do they work?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Spring Framework",
+      "text": "How would you implement internationalization in a Spring application?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Spring Framework",
+      "text": "What is Spring Data JPA and how does it simplify database access?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Spring Framework",
+      "text": "How would you implement a custom Spring Boot auto-configuration?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Spring Framework",
+      "text": "Explain Spring's transaction propagation behaviors."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Spring Framework",
+      "text": "How would you implement a reactive Spring WebFlux application?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Spring Framework",
+      "text": "What are Spring's scoped proxies and when would you use them?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Spring Framework",
+      "text": "How would you implement a custom Spring Security filter?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Spring Framework",
+      "text": "Explain how Spring's BeanPostProcessor works."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Spring Framework",
+      "text": "How would you implement distributed tracing in a Spring microservices architecture?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Spring Framework",
+      "text": "What are Spring's programmatic transaction management options?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Spring Framework",
+      "text": "How would you implement a custom Spring Data repository?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Spring Framework",
+      "text": "Explain Spring's event publishing mechanism and how to use it."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Database",
+      "text": "What is JDBC and how do you use it in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Database",
+      "text": "What is the difference between Statement and PreparedStatement?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Database",
+      "text": "How do you connect to a database using JDBC?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Database",
+      "text": "What is Hibernate and how does it relate to JDBC?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Database",
+      "text": "What are the basic CRUD operations in Hibernate?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Database",
+      "text": "What is JPA and how does it relate to Hibernate?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Database",
+      "text": "How do you map a Java class to a database table in Hibernate?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Database",
+      "text": "What is the purpose of the Hibernate Session?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Database",
+      "text": "What are the advantages of using an ORM like Hibernate?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "Database",
+      "text": "How do you perform a simple query using Hibernate?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Database",
+      "text": "What are Hibernate's caching mechanisms and how do they work?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Database",
+      "text": "Explain Hibernate's first and second level caches."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Database",
+      "text": "What are Hibernate's fetch strategies and when would you use each?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Database",
+      "text": "How would you handle lazy loading exceptions in Hibernate?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Database",
+      "text": "What are JPA entity relationships and how do you map them?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Database",
+      "text": "How would you implement pagination using Hibernate?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Database",
+      "text": "What are Hibernate's dirty checking and automatic flushing mechanisms?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Database",
+      "text": "How would you optimize a slow-performing Hibernate query?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Database",
+      "text": "What are JPA's inheritance strategies and when would you use each?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "Database",
+      "text": "How would you implement a many-to-many relationship in Hibernate?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Database",
+      "text": "How would you implement a custom Hibernate dialect?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Database",
+      "text": "Explain Hibernate's batch processing capabilities."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Database",
+      "text": "How would you implement multi-tenancy in Hibernate?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Database",
+      "text": "What are Hibernate's stateless sessions and when would you use them?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Database",
+      "text": "How would you implement a custom Hibernate type?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Database",
+      "text": "Explain Hibernate's event listeners and interceptors."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Database",
+      "text": "How would you implement optimistic locking in Hibernate?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Database",
+      "text": "What are Hibernate's filters and how would you use them?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Database",
+      "text": "How would you implement a custom JPA attribute converter?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "Database",
+      "text": "Explain how to implement sharding with Hibernate."
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you design a simple e-commerce system in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What components would you include in a basic microservices architecture?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you structure a layered architecture for a Java application?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What considerations would you make for designing a REST API in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you design a simple caching system in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What factors would you consider when choosing between monolithic and microservices architecture?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you design a basic authentication system for a Java web application?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What would you include in a logging strategy for a Java application?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "How would you design a simple file processing system in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Beginner",
+      "role": "System Design",
+      "text": "What considerations would you make for designing a concurrent system in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you design a distributed caching system in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "What strategies would you use for handling high traffic in a Java web application?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you design a scalable message queue system in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "What would you consider when designing a Java application for cloud deployment?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you implement circuit breaking in a Java microservices architecture?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "What strategies would you use for database sharding in a Java application?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you design a real-time notification system in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "What considerations would you make for designing an event-driven architecture in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "How would you implement API versioning in a Java REST service?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Intermediate",
+      "role": "System Design",
+      "text": "What strategies would you use for handling distributed transactions in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a globally distributed Java application with low latency?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "What architecture would you propose for a high-frequency trading system in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a Java system for handling eventual consistency?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "What strategies would you use for implementing a distributed lock in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a Java system for handling backpressure in data streams?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "What architecture would you propose for a machine learning pipeline in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a Java system for handling GDPR compliance?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "What strategies would you use for implementing a CQRS pattern in Java?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "How would you design a Java system for zero-downtime deployments?"
+    },
+    {
+      "job": "Java Developer",
+      "difficulty": "Experienced",
+      "role": "System Design",
+      "text": "What architecture would you propose for a blockchain implementation in Java?"
+    }
+
+  ]
+}
