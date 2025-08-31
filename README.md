@@ -1,16 +1,9 @@
-# talktome
+# AI Interview Coach
 
-A new Flutter project.
+AI based Interview coach. Show ATS rating.
 
-## Getting Started
+## App link-
 
-This project is a starting point for a Flutter application.
+https://68b06532c446474179304d1a--spectacular-strudel-05b55f.netlify.app/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Click "Project" tab
